@@ -34,7 +34,7 @@ First, let's add all the files we've edited:
     
 Now we can commit those:
     
-    git commit -m "short description"
+    git commit Members_List.txt -m "short description"
     
 ### Pushing the changes
 Now we have our branch ready with our change committed. It has a clear summary and helpful description. We're almost ready to provide this to the author.
